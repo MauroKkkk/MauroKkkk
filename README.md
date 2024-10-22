@@ -19,5 +19,5 @@
   <a href="https://www.instagram.com/m4urok/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
- ![Snake animation](https://github.com/MauroKkkk/MauroKkkk/blob/output/github-contribution-grid-snake.svg)
+ [![Snake animation](https://github.com/MauroKkkk/MauroKkkk/blob/output/github-contribution-grid-snake.svg)]
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MAUROKKKK&repo=MAUROKKKK&theme=react)](https://github.com/MauroKkkk/MauroKkkk.)
