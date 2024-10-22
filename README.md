@@ -11,8 +11,8 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-    ![Python](https://img.shields.io/badge/)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    <a><img src="https://img.shields.io/badge/Express.JS-4C4C4C?style=for-the-badge&logo=express&logoColor=white"></a>
+    
 
  
     
